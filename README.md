@@ -1,2 +1,3 @@
-# smartlearn-ai
-AI-based Personalized Learning System using RAG and Compression
+# SmartLearn AI
+
+AI-powered personalized learning system.

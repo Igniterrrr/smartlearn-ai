@@ -1,0 +1,7 @@
+flask
+flask-cors
+pymongo
+pypdf2
+zstandard
+transformers
+torch
