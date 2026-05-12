@@ -1,3 +1,1 @@
-# SmartLearn AI
-
-AI-powered personalized learning system.
+# Frontend Setup\n\nRun `npm install` and `npm run dev`.
